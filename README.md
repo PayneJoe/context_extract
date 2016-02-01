@@ -1,2 +1,2 @@
 # context_extract
-page crawl and context extract
+page crawl and context extract on single machine
